@@ -1,2 +1,2 @@
 # Lottery-Ticket
- Javacsript  algorithm  code
+ Javacsript  algorithm  code creates lottery ticket with random numbers.
